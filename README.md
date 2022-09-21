@@ -1,4 +1,4 @@
-# ⚡ Alec Layton
+# :alarm_clock: Alec Layton
 
 **`Digital Craftsman`**
 
