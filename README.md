@@ -1,4 +1,4 @@
-# :eyeglasses: Alec Layton
+# :bulb: Alec Layton
 
 **`Digital Craftsman`**
 
